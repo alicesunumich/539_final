@@ -1,0 +1,21 @@
+
+
+#header {
+	position: fixed;
+	width: 100%;
+	z-index: 999;
+}
+
+
+#header .header-content img {
+    /* Adjust if there's any margin or padding pushing it down */
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+
+
+  .PDF{
+    padding-top: 8%;
+    margin-bottom: 20%;
+}

@@ -47,5 +47,7 @@ $(document).ready(function() {
 	nav.find('a').on('click', function() {
 		$('.nav-toggle').toggleClass('close-nav');
 		nav.toggleClass('open');
+		console.log("clicked");
 	});
 });
+
